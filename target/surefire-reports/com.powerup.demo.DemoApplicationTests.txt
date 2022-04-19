@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.powerup.demo.DemoApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.609 s - in com.powerup.demo.DemoApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.475 s - in com.powerup.demo.DemoApplicationTests
